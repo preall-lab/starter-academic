@@ -20,7 +20,7 @@ education:
   courses:
     - course: PhD in Molecular Biology
       institution: Northwestern University
-      year: 2010
+      year: 2009
     - course: BS in Biology
       institution: Cornell University
       year: 2003
